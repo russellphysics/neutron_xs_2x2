@@ -1,0 +1,3 @@
+How do you handle nuclear disintegration background events? (Kam-Biu Luk)
+
+The production samples provided do not include cosmic rays and are thus incomplete. Consider backgrounds from cosic neutrons as well. (Kevin Wood via Yifan Chen)
